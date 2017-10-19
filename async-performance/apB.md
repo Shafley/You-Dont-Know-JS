@@ -1,4 +1,4 @@
-# 你不懂JS: 异步与性能
+# 你不知道的 Javascript: 异步与性能
 # 附录B: 高级异步模式
 
 为了了解主要基于 Promise 与 Generator 的面向序列异步流程控制，附录A介绍了 *asynquence* 库。

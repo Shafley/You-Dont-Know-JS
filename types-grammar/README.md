@@ -1,4 +1,4 @@
-# 你不懂JS：类型与语法
+# 你不知道的 Javascript：类型与语法
 
 <img src="cover.jpg" width="300">
 

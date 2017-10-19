@@ -1,4 +1,4 @@
-# 你不懂JS: *this* 与对象原型
+# 你不知道的 Javascript: *this* 与对象原型
 # 第四章: 混合（淆）“类”的对象
 
 接着我们上一章对对象的探索，我们很自然的将注意力转移到“面向对象（OO）编程”，与“类（class）”。我们先将“面向类”作为设计模式来看看，之后我们再考察“类”的机制：“实例化（instantiation）”, “继承（inheritance）”与“相对多态(relative polymorphism）”。

@@ -1,4 +1,4 @@
-# 你不懂JS：作用域与闭包
+# 你不知道的 Javascript：作用域与闭包
 
 <img src="cover.jpg" width="300">
 

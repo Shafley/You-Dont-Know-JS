@@ -1,4 +1,4 @@
-# 你不懂JS: 异步与性能
+# 你不知道的 Javascript: 异步与性能
 
 <img src="cover.jpg" width="300">
 

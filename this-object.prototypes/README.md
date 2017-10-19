@@ -1,4 +1,4 @@
-# 你不懂JS: *this* 与对象原型
+# 你不知道的 Javascript: *this* 与对象原型
 
 <img src="cover.jpg" width="300">
 
