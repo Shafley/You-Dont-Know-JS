@@ -2,7 +2,6 @@
 
 * [介绍](README.md)
 * [前言](preface.md)
-
 * [(一)入门与进阶](up-going/README.md)
     * [序](up-going/foreword.md)
     * [目录](up-going/toc.md)
@@ -10,7 +9,6 @@
     * [第二章: 进入JavaScript](up-going/ch2.md)
     * [第三章: 进入YDKJS](up-going/ch3.md)
     * [附录A: 鸣谢](up-going/apA.md)
-
 * [(二)作用域与闭包](scope-closures/README.md)
     * [序](scope-closures/foreword.md)
     * [目录](scope-closures/toc.md)
@@ -23,19 +21,17 @@
     * [附录B: 填补块儿作用域](scope-closures/apB.md)
     * [附录C: 词法this](scope-closures/apC.md)
     * [附录D: 鸣谢](scope-closures/apD.md)
-
-* [(三)*this* 与对象原型](this-object.prototypes/README.md)
+* [(三)this 与对象原型](this-object.prototypes/README.md)
     * [序](this-object.prototypes/foreword.md)
     * [目录](this-object.prototypes/toc.md)
-    * [第一章: `this`是什么?](this-object.prototypes/ch1.md)
-    * [第二章: `this`豁然开朗!](this-object.prototypes/ch2.md)
+    * [第一章: this是什么?](this-object.prototypes/ch1.md)
+    * [第二章: this豁然开朗!](this-object.prototypes/ch2.md)
     * [第三章: 对象](this-object.prototypes/ch3.md)
     * [第四章: 混合(淆)"类"的对象](this-object.prototypes/ch4.md)
     * [第五章: 原型(Prototype)](this-object.prototypes/ch5.md)
     * [第六章: 行为委托](this-object.prototypes/ch6.md)
-    * [附录A: ES6 `class`](this-object.prototypes/apA.md)
+    * [附录A: ES6 class](this-object.prototypes/apA.md)
     * [附录B: 鸣谢](this-object.prototypes/apB.md)
-
 * [(四)类型与语法](types-grammar/README.md)
     * [序](types-grammar/foreword.md)
     * [目录](types-grammar/toc.md)
@@ -46,7 +42,6 @@
     * [第五章: 语法](types-grammar/ch5.md)
     * [附录A: 与环境混合的JavaScript](types-grammar/apA.md)
     * [附录B: 鸣谢](types-grammar/apB.md)
-
 * [(五)异步与性能](async-performance/README.md)
     * [序](async-performance/foreword.md)
     * [目录](async-performance/toc.md)
@@ -56,10 +51,9 @@
     * [第四章: Generator](async-performance/ch4.md)
     * [第五章: 程序性能](async-performance/ch5.md)
     * [第六章: 基准分析与调优](async-performance/ch6.md)
-    * [附录A: *asynquence* 库](async-performance/apA.md)
+    * [附录A: asynquence 库](async-performance/apA.md)
     * [附录B: 高级异步模式](async-performance/apB.md)
     * [附录C: 鸣谢](async-performance/apC.md)
-
 * [(六)异步与性能](es6-beyond/README.md)
     * [序](es6-beyond/foreword.md)
     * [目录](es6-beyond/toc.md)
@@ -72,3 +66,4 @@
     * [第七章: 元编程](es6-beyond/ch7.md)
     * [第八章: ES6以后](es6-beyond/ch8.md)
     * [附录A: 鸣谢](es6-beyond/apA.md)
+

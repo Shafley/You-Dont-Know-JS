@@ -1,0 +1,5 @@
+{
+    "scripts": {
+        "build": "gitbook epub ./ ./You-Dont-Know-JS.epub && gitbook pdf ./ ./You-Dont-Know-JS.pdf && gitbook mobi ./ ./You-Dont-Know-JS.mobi"
+    }
+}
